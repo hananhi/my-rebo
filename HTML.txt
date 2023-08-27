@@ -1,0 +1,102 @@
+HTML
+Exersice 1 
+https://www.w3schools.com/html/html_intro.asp
+
+The <!DOCTYPE html> declaration defines that this document is an HTML5 document
+The <html> element is the root element of an HTML page
+The <head> element contains meta information about the HTML page
+The <body> element defines the document's body, and is a container for all the visible contents, such as headings.
+
+https://stackoverflow.com/questions/59711752/how-to-have-a-basic-html-structurehttps://stackoverflow.com/questions/59228958/how-to-use-a-basic-html-code-structure-in-multiple-files
+
+https://www.w3schools.com/html/html_headings.asp
+https://www.w3schools.com/html/html_paragraphs.asp
+https://www.w3schools.com/html/html_links.asp
+https://www.w3schools.com/html/html_images.asp
+https://www.w3schools.com/html/html_lists.asp
+
+<title>	Defines the document's title that is shown in a browser's title bar or a page's tab. It only contains text; tags within the element are ignored.
+<p>	Represents a paragraph. Paragraphs are usually represented in visual media as blocks of text separated from adjacent blocks by blank lines and/or first-line indentation, but HTML paragraphs can be any structural grouping of related content, such as images or form fields.
+<ul>	Represents an unordered list of items, typically rendered as a bulleted list.
+
+https://stackoverflow.com/questions/71421413/usage-of-semantic-html-tags-in-regards-to-lists-overview
+https://stackoverflow.com/questions/23242805/html-semantics-and-styling/23243026#23243026
+
+Exersice 3:
+https://www.w3schools.com/html/html_forms.asp
+
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname">
+</form>
+
+https://stackoverflow.com/questions/20088694/manually-invoke-html5-form-validation
+https://stackoverflow.com/questions/65330651/styling-validation-error-messages-using-html-css
+https://stackoverflow.com/questions/69898948/recaptcha-v3-what-to-do-if-validation-failed
+
+Exersice 4:
+https://www.codecademy.com/resources/blog/semantic-html/
+<nav> contains and styles the main navigation bar, including mostly internal webpage links. 
+<header> is found at the top of the webpage and typically contains the search bar, site logo, name, etc. 
+<footer> is found at the bottom of the webpage and usually contains contact info, career links, and the website’s privacy policy. 
+
+https://stackoverflow.com/questions/43477111/hiding-headings-in-the-document-outline-for-accessibility-reasons
+https://stackoverflow.com/questions/67082771/web-accessibility-issue-and-validation-of-wordpress-website
+
+exersice 5 :
+https://www.youtube.com/watch?v=iuSKGuWWNGA
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
+https://stackoverflow.com/questions/4845679/showing-html-table-in-proper-format-using-some-css-technique
+https://stackoverflow.com/questions/673153/html-table-with-fixed-headers
+------------------------------------------------------------------------------------
+CSS 
+exersice 1:
+https://www.w3schools.com/css/css_selectors.asp
+#id		
+.class		
+element.class	
+https://stackoverflow.com/questions/1014861/is-there-a-css-parent-selector
+https://stackoverflow.com/questions/2717480/css-selector-for-first-element-with-class
+https://stackoverflow.com/questions/1520429/is-there-a-css-selector-for-elements-containing-certain-text
+
+exersice 2:
+https://www.w3schools.com/css/css_boxmodel.asp
+
+By default in the CSS box model, the width and height you assign to an element is applied only to the element's content box. If the element has any border or padding, this is then added to the width and height to arrive at the size of the box that's rendered on the screen.
+
+https://stackoverflow.com/questions/60957224/how-can-i-stop-bootstrap-nuget-package-from-affecting-the-html-box-height
+
+exersice 3:
+https://www.bing.com/videos/search?q=css+flexbox&&view=detail&mid=27A39B3736EC5B9327FD27A39B3736EC5B9327FD&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3Dcss%2Bflexbox%26FORM%3DHDRSC4
+
+<div class="flex-container">
+  <div>1</div>
+  <div>2</div>
+  <div>3</div>
+</div>
+
+https://stackoverflow.com/questions/66204693/flexbox-container-centering-challenge
+https://stackoverflow.com/questions/57866503/ccs-flexbox-challenge-content-not-lining-up-in-box-as-required
+
+exersice 4 
+
